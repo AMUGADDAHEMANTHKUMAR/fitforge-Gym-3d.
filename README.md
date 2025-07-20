@@ -8,6 +8,8 @@ Responsive Fitness App Website
 📦 **Related Projects**:
 - [Birthday wishes](https://hemanthproject.lovable.app)
 
+📦 **Related Projects**:
+- [](https://hire-me-scroll.lovable.app/) Portfolio website
 ---
 
 This project is a modern responsive fitness web app UI built with HTML, CSS and hosted on [lovable.app](https://lovable.app).
