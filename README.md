@@ -1,5 +1,5 @@
 
-## FitForge 3D 💪  +  <img src="https://pbs.twimg.com/profile_images/1915780454092779520/PIxdzAvI_400x400.jpg" width="24" height="24">  +  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNfSt0xBDTUkGqyLPvZa5PBHYNVg-WJ2OWPQ&s" width="24" height="24">  
+# FitForge 3D 💪  +  <img src="https://pbs.twimg.com/profile_images/1915780454092779520/PIxdzAvI_400x400.jpg" width="24" height="24">  +  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNfSt0xBDTUkGqyLPvZa5PBHYNVg-WJ2OWPQ&s" width="24" height="24">  
 
 **Responsive Fitness App Website**
 
