@@ -1,8 +1,9 @@
-Here’s the updated and polished version of your project description with **FitForge 3D 💪**, and placeholders for the **Lovable** and **Superbass** logos (you can replace them with actual image tags or links):
 
----
+## FitForge 3D 💪  +  <img src="https://lovable.app/favicon.ico" alt="Lovable Logo" width="24" height="24">  +  <img src="https://supabase.com/favicon.ico" alt="Supabase Logo" width="24" height="24">  
 
-## **FitForge 3D 💪**
+**Responsive Fitness App Website**
+
+FitForge 3D is a modern, mobile-friendly fitness membership web app built using the Lovable platform and powered by Supabase for backend functionality. New users can register, choose a membership plan, and instantly connect with gym owners via WhatsApp.
 
 ![Lovable Logo](https://lovable.app/favicon.ico) ![Superbass Logo](https://superbass.ai/favicon.ico)
 *Responsive Fitness App Website*
