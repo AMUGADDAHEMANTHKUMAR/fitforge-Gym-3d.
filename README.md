@@ -46,11 +46,3 @@ FitForge 3D is a modern, clean, and responsive web app built using **Lovable** a
 
 ---
 
-### 📌 **Hosting**
-
-All projects are hosted on [**Lovable.app**](https://lovable.app), showcasing responsive design, user-focused flow, and easy-to-deploy backend services.
-
----
-
-Let me know if you want this in Markdown, HTML, PDF, or styled for LinkedIn/portfolio use!
-
