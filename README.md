@@ -24,7 +24,7 @@ FitForge 3D is a modern web application built to simplify the way new members jo
 
 ---
 
- ###Some Other Applications By using AI
+ ### Some Other Applications By using AI
  
 🌐 **Live Demo**:  
 [FitForge Web Demo](https://fit-forge-3d-web.lovable.app)
