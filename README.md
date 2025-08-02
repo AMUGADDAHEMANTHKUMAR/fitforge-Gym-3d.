@@ -36,13 +36,20 @@ FitForge 3D is a modern, clean, and responsive web app built using **Lovable** a
 
 ---
 
-### 🖼️ Screenshots
+### 📸 Screenshots – FitForge 3D Flow
 
-<div style="display: flex; gap: 10px;">
-  <img src="screenshots/registration.png" alt="Registration Page" width="30%">
-  <img src="screenshots/plans.png" alt="Membership Plans" width="30%">
-  <img src="screenshots/whatsapp.png" alt="WhatsApp Chat" width="30%">
-</div>
+> Below are some key screens showing the user registration flow, services, and how details are forwarded to the gym owner via email.
+
+| Landing Page | Service Options | Contact Form |
+|--------------|------------------|--------------|
+| ![Landing Page – FitForge 3D](https://github.com/AMUGADDAHEMANTHKUMAR/fitforge-Gym-3d./blob/main/Screenshot%20(1974).png?raw=true) | ![Services – Membership Options](https://github.com/AMUGADDAHEMANTHKUMAR/fitforge-Gym-3d./blob/main/Screenshot%20(1975).png?raw=true) | ![Contact Section – Get in Touch](https://github.com/AMUGADDAHEMANTHKUMAR/fitforge-Gym-3d./blob/main/Screenshot%20(1976).png?raw=true) |
+
+| Email Preview – Data Sent to Gym Owner |
+|----------------------------------------|
+| ![Email Sent with User Details](https://github.com/AMUGADDAHEMANTHKUMAR/fitforge-Gym-3d./blob/main/Screenshot%20(1977).png?raw=true) |
+
+> 💡 After the user submits the form with their name and membership plan, an **email is auto-sent to the gym owner** with the provided details for immediate response.
+
 
 ---
 ### 🔗 **Other AI-Powered Projects:**
