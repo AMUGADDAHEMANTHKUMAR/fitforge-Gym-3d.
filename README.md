@@ -42,7 +42,7 @@ FitForge 3D is a modern, clean, and responsive web app built using **Lovable** a
 
 | Landing Page | Service Options | Contact Form | Exercise View with QR Code |
 |--------------|------------------|--------------|---------------------------|
-| ![Landing Page – FitForge 3D](https://github.com/AMUGADDAHEMANTHKUMAR/fitforge-Gym-3d./blob/main/Screenshot%20(1974).png?raw=true) | ![Services – Membership Options](https://github.com/AMUGADDAHEMANTHKUMAR/fitforge-Gym-3d./blob/main/Screenshot%20(1975).png?raw=true) | ![Contact Section – Get in Touch](https://github.com/AMUGADDAHEMANTHKUMAR/fitforge-Gym-3d./blob/main/Screenshot%20(1976).png?raw=true) | ![Exercise Listing with QR Code – Built Using Live App](https://github.com/AMUGADDAHEMANTHKUMAR/fitforge-Gym-3d./blob/main/Screenshot%20(1978).png?raw=true) |
+| ![Landing Page – FitForge 3D](https://github.com/AMUGADDAHEMANTHKUMAR/fitforge-Gym-3d./blob/main/Screenshot%20(1974).png?raw=true) | ![Services – Membership Options](https://github.com/AMUGADDAHEMANTHKUMAR/fitforge-Gym-3d./blob/main/Screenshot%20(1975).png?raw=true) | ![Contact Section – Get in Touch](https://github.com/AMUGADDAHEMANTHKUMAR/fitforge-Gym-3d./blob/main/Screenshot%20(1976).png?raw=true) | ![Exercise Listing with QR Code – Built Using Live App](https://github.com/AMUGADDAHEMANTHKUMAR/fitforge-Gym-3d./blob/main/Screenshot%20(1979).png) |
 
 | Email Preview – Data Sent to Gym Owner |
 |----------------------------------------|
