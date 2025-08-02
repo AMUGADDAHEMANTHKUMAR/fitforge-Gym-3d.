@@ -5,10 +5,7 @@
 
 FitForge 3D is a modern, mobile-friendly fitness membership web app built using the Lovable platform and powered by Supabase for backend functionality. New users can register, choose a membership plan, and instantly connect with gym owners via WhatsApp.
 
-![Lovable Logo] , ![Superbass Logo]
-*Responsive Fitness App Website*
-
-[Live App ➜ **https://fit-forge-3d-web.lovable.app**](https://fit-forge-3d-web.lovable.app)
+[Live Demo](https://fit-forge-3d-web.lovable.app)
 
 ---
 
@@ -39,10 +36,23 @@ FitForge 3D is a modern, clean, and responsive web app built using **Lovable** a
 
 ---
 
+### 🖼️ Screenshots
+
+<div style="display: flex; gap: 10px;">
+  <img src="screenshots/registration.png" alt="Registration Page" width="30%">
+  <img src="screenshots/plans.png" alt="Membership Plans" width="30%">
+  <img src="screenshots/whatsapp.png" alt="WhatsApp Chat" width="30%">
+</div>
+
+---
 ### 🔗 **Other AI-Powered Projects:**
 
 * 🎂 [**Birthday Wishes Generator**](https://hemanthproject.lovable.app)
 * 🧑‍💼 [**Scroll-Based Portfolio**](https://hire-me-scroll.lovable.app/)
 
 ---
+## 📬 Contact
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/amugaddahemanthkumar/) or [Email](https://mail.google.com/mail/?view=cm&fs=1&to=hemanthkumar7783@gmail.com&su=Hello&body=Hi%20Hemanth,%20I%20wanted%20to...)
+ if you'd like to collaborate or have questions.
 
