@@ -54,7 +54,7 @@ FitForge 3D is a modern, clean, and responsive web app built using **Lovable** a
 ---
 ### 🔗 **Other AI-Powered Projects:**
 
-* 🎂 [**Birthday Wishes Generator**](https://hemanthproject.lovable.app)
+* 🎂 [**Birthday Wishes Application**](https://hemanthproject.lovable.app)
 * 🧑‍💼 [**Scroll-Based Portfolio**](https://hire-me-scroll.lovable.app/)
 
 ---
